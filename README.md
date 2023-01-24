@@ -1,8 +1,8 @@
 # ScreenShots
 
-![Website Screenshot 1](/Users/joshua/Desktop/Projects/Pokedex/pokedex-react/screenshots/website-screenshot-1.png)
+![Website Screenshot 1](./public/screenshots/website-screenshot-1.png)
 
-![Website Screenshot 2](/Users/joshua/Desktop/Projects/Pokedex/pokedex-react/screenshots/website-screenshot-2.png)
+![Website Screenshot 2](./public/screenshots/website-screenshot-2.png)
 
 ## **Project Description**
 
