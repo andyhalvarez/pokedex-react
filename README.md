@@ -1,8 +1,8 @@
 # ScreenShots
 
-![Website Screenshot 1](file:///Users/joshua/Desktop/website-screenshot-1.png)
+![Website Screenshot 1](website-screenshot-1.png)
 
-![Website Screenshot 2](file:///Users/joshua/Desktop/website-screenshot-2.png)
+![Website Screenshot 2](/Users/joshua/Desktop/website-screenshot-2.png)
 
 ## **Project Description**
 
